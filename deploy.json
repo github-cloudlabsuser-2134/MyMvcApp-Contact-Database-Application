@@ -4,7 +4,7 @@
     "parameters": {
       "location": {
         "type": "string",
-        "defaultValue": "East US",
+        "defaultValue": "Canada Central",
         "metadata": {
           "description": "Location for all resources."
         }
@@ -18,7 +18,7 @@
       },
       "webAppName": {
         "type": "string",
-        "defaultValue": "MyMvcApp",
+        "defaultValue": "MyMvcApp1",
         "metadata": {
           "description": "Name of the Web App."
         }
